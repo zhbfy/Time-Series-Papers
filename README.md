@@ -53,8 +53,10 @@
   - [Study of Stock Market (股票市场研究)](#study-of-stock-market-%e8%82%a1%e7%a5%a8%e5%b8%82%e5%9c%ba%e7%a0%94%e7%a9%b6)
       - [2017](#2017-3)
   - [Spatio-temporal Forecasting (时空预测)](#spatio-temporal-forecasting-%e6%97%b6%e7%a9%ba%e9%a2%84%e6%b5%8b)
-    - [Traffic Prediction (交通预测)](#traffic-prediction-%e4%ba%a4%e9%80%9a%e9%a2%84%e6%b5%8b)
+  - [Traffic Prediction (交通预测)](#traffic-prediction-%e4%ba%a4%e9%80%9a%e9%a2%84%e6%b5%8b)
       - [2018](#2018-8)
+  - [Time series imputation (时间序列补值)](#imputation)
+      - [2019](#2019-4)
   - [Others (其他)](#others-%e5%85%b6%e4%bb%96)
       - [2019](#2019-3)
       - [2018](#2018-9)
@@ -291,6 +293,13 @@ Time series motifs are approximately repeating patterns in real-value data, the 
     - 结合三种隐含因素，通过 Seq2Seq 结构预测交通状况：1）离线地理和社会属性；2）道路交叉口信息；3）在线人群查询
 
 - - -
+## Imputation (时间序列补值)
+
+#### 2019
+
+- **E²GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation.[[paper](https://www.ijcai.org/proceedings/2019/0429.pdf)]
+    - This paper proposes an end-to-end generative model E2GAN to impute missing values in multivariate time series.
+    提出了一个端到端的生成模型用于时间序列补值.
 
 ## Others (其他)
 
